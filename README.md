@@ -1,4 +1,4 @@
-# visualizing_tech_stocks
+# Visualizing Tech Stocks
 
 Hello fellow developers. I'm a student of Codecademy and I just finished the visualizing tech stocks Project from the 'Visualize Financial Data with Python' Skill Course.
 
